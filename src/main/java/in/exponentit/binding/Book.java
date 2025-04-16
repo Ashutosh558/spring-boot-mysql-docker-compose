@@ -1,4 +1,4 @@
-package in.ashokit.binding;
+package in.exponentit.binding;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
